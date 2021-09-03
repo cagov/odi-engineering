@@ -14,11 +14,11 @@ Still figuring this out, current options are:
 Project Name
 : The most accurate name for a project you can come up with. 
 
-Alternative project names:
+Alternative project names
 : Projects in development are often referred to by multiple names. To help everyone 
 connect the dots, please include alternative names.
 
-Github repo(s):
+Github repo(s)
 : List of relevant github repos for this project
 
 Lead engineer
