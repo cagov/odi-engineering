@@ -14,8 +14,8 @@ Still figuring this out, current options are:
 ---
 
 Project name
-[//]: The most accurate name for a project you can come up with. 
-covid19.ca.gov
+[//]: # (The most accurate name for a project you can come up with. 
+covid19.ca.gov)
 
 Alternative project names
 [//]: Projects in development are often referred to by multiple names. To help everyone 
