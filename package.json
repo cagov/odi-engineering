@@ -1,0 +1,23 @@
+{
+  "name": "odi-engineering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test index.spec.mjs",
+    "test:setup": "npx playwright install-deps chromium && npx playwright install"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.16.3",
+    "axe-playwright": "^1.1.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagov/odi-engineering.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
