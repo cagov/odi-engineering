@@ -40,7 +40,11 @@ playwright.resume()
 
 ## Includes
 
-We can put some test steps in separate files and reuse them in multiple places. An example is in test/includes/search.mjs:
+# Playwright Testing 
+
+## Includes
+
+We can put some test steps in separate files and reuse them in multiple places. An example is in <a href="test/includes/search.mjs">test/includes/search.mjs</a>:
 
 The snippet submits the search form:
 ```
@@ -52,7 +56,7 @@ async function search(page) {
 export default search;
 ```
 
-An example of it being used is in test/includes.spec.mjs:
+An example of it being used is in <a href="test/includes.spec.mjs">test/includes.spec.mjs</a>:
 - Import the file:
 ```
 import search from './includes/search.mjs';
